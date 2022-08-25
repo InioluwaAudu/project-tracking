@@ -1,0 +1,148 @@
+.card-holder{
+	background-color: #E6EFF5;
+
+}
+
+.card{
+	width: 635px;
+	height: 475px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 15px 30px rgba(0, 81, 171, 0.148847);
+	border-radius: 8px;
+}
+
+.main-text{
+	color: #2AB3B1;
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	padding-left: 40px;
+	padding-top: 40px;
+}
+
+.sub-text{
+	font-family: 'Karla', sans-serif;
+	color: #C0DF33;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 21px;
+	padding-left: 40px;
+}
+.description{
+	font-family: 'Karla', sans-serif;
+	color: #9AA7BE;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.monthly{
+	width: 318px;
+	height: 270;
+	background-color: #2AB3B1;
+	padding-top: 18px;
+	border-bottom-left-radius: 8px;
+}
+
+.why{
+	width: 318px;
+	height: 262px;
+	background-color: #4ABFBC;
+	padding-top: 18px;
+	border-bottom-right-radius: 8px;
+
+}
+.title{
+	color: #FFFFFF;
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 21px;
+	padding-left: 40px;
+}
+.price{
+	color: #FFFFFF;
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 37px;
+}
+.statement{
+	color: #95D9D7;
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	padding-left: 100px;
+	justify-content: flex-end;
+	align-content: flex-end;
+}
+.box{
+	display: flex;
+	background-color: #2AB3B1;
+	width: 200px;
+	height: 37px;
+	margin-left: 40px;
+}
+.button{
+	background-color: #C0DF33;
+	box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.0973011);
+	border-radius: 5px;
+	border: 0;
+	color: #FFFFFF;
+	width: 237px;
+	height: 48px;
+	margin-left: 40px;
+
+}
+
+.main{
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 21px;
+	color: #FFFFFF;
+	padding-left: 40px;
+}
+
+.sub{
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px;
+	color: #95D9D7;
+	padding-left: 40px;
+}
+.subsub{
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	color: white;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	padding-left: 40px;
+}
+
+.head{
+	display: flex;
+	width: 635px;
+	height: 280px;
+	background-color: pink;
+	justify-content: space-between;
+}
+.box{
+	display: flex;
+	width: 40px;
+	height: 79px;
+}
